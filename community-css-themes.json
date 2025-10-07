@@ -2775,5 +2775,12 @@
     "repo": "IchiroFukuda/spy-terminal-theme",
     "screenshot": "screenshots/spy-terminal-atmosphere.png",
     "modes": ["dark"]
-  }
+  },
+  {
+	"author": "HotAndCold",
+	"name": "Hidden Grotto",
+	"repo": "HotAndCold245/Hidden-Grotto-Theme",
+	"screenshot": "grotto-screenshot.png",
+	"modes": ["dark", "light"]
+}
 ]
